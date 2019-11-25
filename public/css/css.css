@@ -48,4 +48,6 @@ li{
 #form{
 	border-top: solid #f0ad4e;
 	height: 15em;
+	display: flex;
+	justify-content: center;
 }
